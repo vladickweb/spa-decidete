@@ -1,13 +1,7 @@
-import React from 'react'
-
-import { Button } from 'antd'
+import MainLayout from '../../components/main-layout'
 
 function HomePage() {
-	return (
-		<div>
-			<Button type='primary'>Hello World</Button>
-		</div>
-	)
+	return null
 }
 
 export default HomePage
